@@ -10,7 +10,7 @@ const projectsData = [
     description: 'Research and analysis of a decision tree for a mobile application.',
     image: 'https://www.cfoselections.com/hubfs/when%20to%20use%20a%20decision%20tree%20for%20business%20planning.png',
     span: 'large',
-    link: 'https://www.figma.com/board/HO3310jGrVEOEooaw2OpFV/UX?node-id=0-188&t=izyQrWyRvCBhRso0-0'
+    link: 'https://www.figma.com/board/wLWbQFKug4v8hJudozR3W9/Fashion-ux?node-id=0-1&p=f'
   },
   {
     id: 2,
