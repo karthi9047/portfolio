@@ -8,7 +8,7 @@ const projectsData = [
     title: 'Decision Tree',
     category: 'UX Research',
     description: 'Research and analysis of a decision tree for a mobile application.',
-    image: 'https://www.cfoselections.com/hubfs/when%20to%20use%20a%20decision%20tree%20for%20business%20planning.png',
+    image: 'https://www.ejable.com/wp-content/uploads/2023/10/decision-tree-3.webp',
     span: 'large',
     link: 'https://www.figma.com/board/wLWbQFKug4v8hJudozR3W9/Fashion-ux?node-id=0-1&p=f'
   },
