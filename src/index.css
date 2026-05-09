@@ -150,6 +150,7 @@ html.lenis body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
 /* Custom Cursor */
@@ -181,6 +182,8 @@ html.lenis body {
   grid-template-columns: repeat(12, 1fr);
   grid-auto-rows: 350px;
   gap: 24px;
+  justify-items: center;
+  justify-content: center;
 }
 
 .bento-item {
@@ -193,6 +196,7 @@ html.lenis body {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  text-align: center;
   transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), background 0.4s ease;
 }
 

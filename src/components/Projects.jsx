@@ -8,7 +8,7 @@ const projectsData = [
     title: 'Decision Tree',
     category: 'UX Research',
     description: 'Research and analysis of a decision tree for a mobile application.',
-    image: 'https://s3-alpha.figma.com/hub/file/4250806617/cffc4bbb-dece-4d21-b133-24d03c57cf20-cover.png',
+    image: 'https://www.cfoselections.com/hubfs/when%20to%20use%20a%20decision%20tree%20for%20business%20planning.png',
     span: 'large',
     link: 'https://www.figma.com/board/HO3310jGrVEOEooaw2OpFV/UX?node-id=0-188&t=izyQrWyRvCBhRso0-0'
   },
