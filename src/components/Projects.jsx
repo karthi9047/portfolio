@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { ArrowUpRight } from 'lucide-react';
+import mobileUiImg from '../assets/mobile-ui.png';
 
 const projectsData = [
   {
@@ -16,7 +17,7 @@ const projectsData = [
     title: 'FASHION APP',
     category: 'Mobile UX/UI',
     description: 'End-to-end product design from user personas to high-fidelity prototyping, creating an intuitive daily habit tracker.',
-    image: 'src/assets/mobile-ui.png',
+    image: mobileUiImg,
     span: 'medium',
     link: 'https://www.figma.com/proto/3i2q3s6ldc7QqaIfG58ot3/Ui-fashoin?node-id=93-52&p=f&t=Ytc2bxsJ4G8Zr7P6-0&scaling=min-zoom&content-scaling=fixed&page-id=67%3A1652&starting-point-node-id=93%3A52&show-proto-sidebar=1'
   },

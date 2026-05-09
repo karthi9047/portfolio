@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import karthikImg from '../assets/karthik.jpeg';
 
 const About = () => {
   return (
@@ -27,7 +28,7 @@ const About = () => {
               }}
             >
               <img
-                src="src/assets/karthik.jpeg"
+                src={karthikImg}
                 alt="Portrait"
                 style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', objectFit: 'cover', mixBlendMode: 'luminosity', opacity: 0.8 }}
               />
